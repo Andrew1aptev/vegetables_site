@@ -40,3 +40,43 @@ li{
     color: #E5E7EB;
     font-size: 18px;
 }
+.header-info{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+.header-info-leftblock{
+    width: 500px;
+    height: auto;
+}
+.rightblock-img{
+    display: flex;
+    height: 300px;
+    width: 550px;
+}
+.leftblock-title{
+    font-size: 48px;
+    font-weight: 800;
+    color: #F9FAF8;
+}
+.leftblock-text{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+.leftblock-btn{
+    margin-top: 25px;
+    background-color: #3882F6;
+    border: none;
+    border-radius: 10%;
+    padding: 13px 40px;
+    color: #F9FAF8;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.information-title{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 36px;
+}
