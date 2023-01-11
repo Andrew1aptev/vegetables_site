@@ -76,6 +76,7 @@ li {
 .leftblock-text {
     font-size: 18px;
     color: #E5E7EB;
+    padding-top: 25px;
 }
 
 .leftblock-btn {
@@ -122,4 +123,18 @@ li {
     margin-top: 15px;
     color: #1F2937;
     font-size: 18px;
+}
+.quote{
+    padding: 200px 0px 200px 0px;
+    background-color: #E5E7EB;
+}
+.quote-text{
+    font-size: 36px; 
+    font-style: italic;
+}
+.quote-sign{
+    text-align: end;
+    font-weight: bold;
+    font-size: 24px;
+    padding-top: 40px;
 }
