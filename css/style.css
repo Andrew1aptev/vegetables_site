@@ -173,3 +173,13 @@ li {
     background-color: #F9FAF8;
     color: #1F2937;
 }
+.footer{
+    background-color: #1F2937;
+    height: 80px;
+}
+.copyright{
+    text-align: center;
+    color: #F9FAF8;
+    font-size: 18px;
+    padding: 35px 0px 0px 0px ;
+}
